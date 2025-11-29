@@ -1,0 +1,20 @@
+{
+  "title": "Law-N Processed Network Telemetry — TEMPLATE",
+  "slug": "law-n-network-telemetry-template",
+  "licenseName": "CC BY-SA 4.0",
+  "isPrivate": true,
+  "keywords": [
+    "law-n",
+    "network",
+    "signals",
+    "telemetry",
+    "latency"
+  ],
+  "description": "Processed network telemetry shaped into Law-N style tables (e.g. network.routes, network.telemetry).",
+  "resources": [
+    {
+      "path": "PATH/TO/FILE.csv",
+      "description": "Sample processed telemetry."
+    }
+  ]
+}
