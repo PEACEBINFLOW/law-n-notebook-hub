@@ -1,0 +1,14 @@
+ipykernel
+jupyterlab
+notebook
+
+pandas
+numpy
+matplotlib
+plotly
+
+sqlalchemy
+psycopg2-binary
+
+# Add more as you wire in the 8 core repos:
+# e.g. any custom Law-N Python packages, simulation libs, etc.
