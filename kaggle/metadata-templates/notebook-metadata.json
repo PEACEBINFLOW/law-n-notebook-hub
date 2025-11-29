@@ -1,0 +1,19 @@
+{
+  "title": "Law-N Notebook — TEMPLATE",
+  "subtitle": "Signal-native networking experiments using Law-N core repos",
+  "isPrivate": true,
+  "enableGpu": false,
+  "enableInternet": false,
+  "keywords": [
+    "law-n",
+    "networking",
+    "nsql",
+    "signals",
+    "5g"
+  ],
+  "licenseName": "CC BY-SA 4.0",
+  "codeFile": "PATH/TO/NOTEBOOK.ipynb",
+  "datasetSources": [],
+  "competitionSources": [],
+  "kernelSources": []
+}
