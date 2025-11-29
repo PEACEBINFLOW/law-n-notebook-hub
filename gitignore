@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+env/*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Data
+datasets/raw/
+datasets/processed/
+datasets/external/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
